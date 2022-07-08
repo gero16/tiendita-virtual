@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "name": "Remera Pav",
+        "price": 850,
+        "image": "img/remera.webp",
+        "category": "cintos",
+        "stock": 1000,
+        "cantidad": 0
+        
+    },
+    {
+        "id": 2,
+        "name": "Remera Savana",
+        "price": 1950,
+        "image": "img/remera2.webp",
+        "category": "mochilas",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 3,
+        "name": "Remera Calafate ",
+        "price": 250,
+        "image": "img/remera3.webp",
+        "category": "carteras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 4,
+        "name": "Remera under",
+        "price": 3500,
+        "image": "img/remera4.webp",
+        "category": "mochilas",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 5,
+        "name": "Mochila oxido",
+        "price": 3500,
+        "image": "img/mochila.webp",
+        "category": "mochilas",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 6,
+        "name": "Mochila Andes",
+        "price": 2350,
+        "image": "img/mochila2.webp",
+        "category": "bandoleras",
+        "stock": 0
+  ,
+"cantidad": 0  },
+    {
+        "id": 7,
+        "name": "Mochila Tulum",
+        "price": 550,
+        "image": "img/mochila3.webp",
+        "category": "riñoneras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 8,
+        "name": "Mochila Tundra",
+        "price": 550,
+        "image": "img/mochila4.web",
+        "category": "riñoneras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 9,
+        "name": "´Short Calvin",
+        "price": 2350,
+        "image": "img/short.webp",
+        "category": "carteras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 10,
+        "name": "Short Liso",
+        "price": 790,
+        "image": "img/short2.webp",
+        "category": "cintos",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 11,
+        "name": "Pantalon Andes",
+        "price": 2350,
+        "image": "img/pantalon.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 12,
+        "name": "Pantalon Mykonos",
+        "price": 1950,
+        "image": "img/pantalon2.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 13,
+        "name": "Medias Clasicas",
+        "price": 1950,
+        "image": "img/medias.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 14,
+        "name": "Medias",
+        "price": 1950,
+        "image": "img/medias2.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 15,
+        "name": "Gorro",
+        "price": 1950,
+        "image": "img/gorro.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 16,
+        "name": "Champion Loset",
+        "price": 1950,
+        "image": "img/champion.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 17,
+        "name": "Champion Linder",
+        "price": 1950,
+        "image": "img/champion2.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 18,
+        "name": "Champion Mike",
+        "price": 1950,
+        "image": "img/champion3.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    },
+    {
+        "id": 19,
+        "name": "Pantalon Mykonos",
+        "price": 1950,
+        "image": "img/champion4.webp",
+        "category": "bandoleras",
+        "stock": 1000,
+        "cantidad": 0
+    }
+]
